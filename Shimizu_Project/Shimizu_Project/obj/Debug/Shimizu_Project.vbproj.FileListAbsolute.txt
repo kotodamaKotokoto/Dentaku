@@ -1,0 +1,12 @@
+C:\Users\kizik\source\repos\Shimizu_Project\Shimizu_Project\bin\Debug\Shimizu_Project.exe.config
+C:\Users\kizik\source\repos\Shimizu_Project\Shimizu_Project\bin\Debug\Shimizu_Project.exe
+C:\Users\kizik\source\repos\Shimizu_Project\Shimizu_Project\bin\Debug\Shimizu_Project.pdb
+C:\Users\kizik\source\repos\Shimizu_Project\Shimizu_Project\bin\Debug\Shimizu_Project.xml
+C:\Users\kizik\source\repos\Shimizu_Project\Shimizu_Project\obj\Debug\Shimizu_Project.Resources.resources
+C:\Users\kizik\source\repos\Shimizu_Project\Shimizu_Project\obj\Debug\Shimizu_Project.vbproj.GenerateResource.cache
+C:\Users\kizik\source\repos\Shimizu_Project\Shimizu_Project\obj\Debug\Shimizu_Project.vbproj.CoreCompileInputs.cache
+C:\Users\kizik\source\repos\Shimizu_Project\Shimizu_Project\obj\Debug\Shimizu_Project.exe
+C:\Users\kizik\source\repos\Shimizu_Project\Shimizu_Project\obj\Debug\Shimizu_Project.xml
+C:\Users\kizik\source\repos\Shimizu_Project\Shimizu_Project\obj\Debug\Shimizu_Project.pdb
+C:\Users\kizik\source\repos\Shimizu_Project\Shimizu_Project\obj\Debug\Shimizu_Project.Form1.resources
+C:\Users\kizik\source\repos\Shimizu_Project\Shimizu_Project\obj\Debug\Shimizu_Project.vbprojAssemblyReference.cache
